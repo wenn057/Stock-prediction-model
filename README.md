@@ -1,4 +1,4 @@
-# Stock-prediction-model
+#Stock-prediction-model
 
 import yfinance as yf
 
